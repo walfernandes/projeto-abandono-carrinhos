@@ -8,6 +8,6 @@ Simular uma análise realista de dados de e-commerce com foco na **taxa de aband
 
 ##  Estrutura da Pipeline
 
-```
+```mermaid
 graph TD;
   SQL --> Excel --> PowerBI
